@@ -1,6 +1,8 @@
 Test caching with hapi js
 ===========
 
+- Update mudules
+
 ```shell
     $ sudo npm install
 
