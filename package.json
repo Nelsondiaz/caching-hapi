@@ -1,0 +1,24 @@
+{
+  "name": "caching",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Nelsondiaz/caching-hapi.git"
+  },
+  "author": "@siandiaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nelsondiaz/caching-hapi/issues"
+  },
+  "homepage": "https://github.com/Nelsondiaz/caching-hapi",
+  "dependencies": {
+    "hapi": "^3.0.1",
+    "nipple": "^2.4.0",
+    "catbox-redis": "^1.0.1"
+  }
+}
