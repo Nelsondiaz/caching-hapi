@@ -9,9 +9,10 @@ Test caching with hapi js
 
 ```shell
     node index.js
+```    
 
 - See
 
 ```shell
     localhost:8000
-
+```
