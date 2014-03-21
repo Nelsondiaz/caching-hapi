@@ -1,6 +1,7 @@
 Test caching with hapi js
 ===========
 
+```shell
     $ sudo npm install
 
 ```
